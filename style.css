@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(53, 53, 53, 0.822);
+}
+
+.search{
+    width: 100%;
+    display: flex;
+    margin: 100px 0;
+}
+
+.searchFeild{
+    width: 90%;;
+}
+
+.card-img-top{
+    height: 400px;
+}
+
+.col-lg-4.col-md-4.col-sm-4 {
+    margin-top: 20px;;
+}
+
+
+.card-title {
+    height : 50px;
+    /* margin-bottom : 10px; */
+}
+
+.type{
+    padding-top : 20px;
+}
+
+.exception-msg { 
+    display : flex;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: bold;
+    color : red;
+}
+
+.button {
+    border : 1px solid rgb(135, 235, 235);
+    background-color: rgb(135, 235, 235);
+    border-left: none;
+}
+
+.searchedText {
+    display : flex;
+    justify-content: center;
+    font-weight: bold;
+    color : white;
+    font-size : 25px;
+}
